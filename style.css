@@ -1,0 +1,37 @@
+.distance {
+    margin: 20px;
+}
+.center {
+  text-align: center;
+}
+#title {
+  cursor: pointer;
+}
+#tooltitle {
+  font-size: 3em;
+  font-weight: bold;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  color: #333;
+  margin-top: 16px;
+}
+#main {
+  text-align: center;
+}
+#picker {
+  height: 100px;
+  width: 150px;
+}
+#hex, #rgb, #cmyk, #hsl, #hsv {
+  font-weight: normal;
+}
+#output {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.copy-button {
+  cursor: pointer;
+}
